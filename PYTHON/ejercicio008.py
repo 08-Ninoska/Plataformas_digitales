@@ -33,3 +33,5 @@ print(esto_es_una_string[5:9])
 variable = 'Ninoska'
 print(variable[::1])  
 print(variable[::-1])
+
+.
