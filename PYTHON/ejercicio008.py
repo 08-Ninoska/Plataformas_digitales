@@ -34,4 +34,3 @@ variable = 'Ninoska'
 print(variable[::1])  
 print(variable[::-1])
 
-.
